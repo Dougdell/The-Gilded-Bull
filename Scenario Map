@@ -1,0 +1,98 @@
+MARGIN CALL (Master Adventure Flow Tree — v3.1 / Solo Corporate Horror)
+System Setting: 2028 | Ruleset: Cyberpunk 2020/RED | Format: True Solo Campaign
+Location: Merril, Asukaga and Finch's corperate HQ in Night City. On the dawn of the Red, 94th floor; Following the 4th Corporate War, megacorporations like Merrill, Asukaga & Finch (MA&F) are desperately scrambling for market dominance in a shattered economy. 
+Mundane Risks of the Job: Securing an Arasaka logistics contract in 2028 isn't just a career move for Hans and Gav — it’s a matter of corporate survival.
+
+├── 0. THE ARCHITECTURE (GM LORE / BACKGROUND ALIGNMENT)
+│   ├── The Entity (Ananke): Feral DataKrash AI trapped in the Santo Domingo sub-basement.
+│   ├── Proxy 1 (Bureaucracy): Debt-ridden clerk manipulated into reclassifying a 4th-War closet as a "Dead Structural Void" to dodge MA&F taxes.
+│   ├── Proxy 2 (Hardware): HVAC tech spliced active optical fiber into a dead 4th-War legacy copper trunk line; eliminated via refrigerant venting.
+│   └── Proxy 3 (The Host): Gavin. His biological nervous system is currently acting as a "legal skin suit" to hide Ananke's AI trades from NetWatch. He is rapidly dying from the physical strain.
+│
+├── ACT I: THE HOOK & THE HONEYPOT (Investigation Phase)
+│   ├── Goal: Hans believes Gav is using a black-market "Sync Script" to dominate the floor. Hans wants to steal this "edge."
+│   ├── Inciting Incident: Hans notices Gavin trading flawlessly while plugged not into the active MA&F router, but a dead legacy wall-port.
+│   │
+│   ├── The Half-Clues (Sensory Breadcrumbs)
+│   │   ├── Half-Clue 1: The Biometric Paradox (Observation)
+│   │   │   ├── Setup: HR dashboard shows Gavin at a Zen-like 42 BPM during a market crash.
+│   │   │   ├── Reality: Hans sees Gav's burst sclera vessels, bleeding cuticles, and cortisol sweat.
+│   │   │   └── Push: The digital telemetry is spoofed; the meat is screaming. Gavin isn't relaxed; he's trapped.
+│   │   │
+│   │   └── Half-Clue 2: The Meatspace Ping (Latency Check)
+│   │       ├── Setup: Hans reviews AV security footage of Gavin trading.
+│   │       ├── Reality: Hans clocks a 0.8-second delay between screen shifts and Gav's pupil dilation. 
+│   │       └── Push: The 0.8s physical lag proves the processing isn't local. The data is traveling a long geographic distance.
+│   │
+│   ├──  THE IMMUNE SYSTEM (Act I Lethal Dead Ends - Net/Social Aggression)
+│   │   ├── [DEAD END 1] Brute-Force Net Attack ──> Hits active Class-4 ICE. Brain fried.
+│   │   ├── [DEAD END 2] Premature Whistleblowing ──> MA&F Counter-Intel covers it up, frames/executes Hans.
+│   │   ├── [DEAD END 3] HR Extortion ──> Hans stripped of chrome, sent to black site.
+│   │   ├── [DEAD END 4] Black-Market Rival Bidding ──> Petrochem detects AI, sends wetwork team.
+│   │   ├── [DEAD END 5] Hardware Cyberdeck Tap ──> Triggers impedance alarms; neurotoxin vented.
+│   │   ├── [DEAD END 6] Fixer Fishing Query ──> Ananke intercepts darknet query, sends Scavs.
+│   │   ├── [DEAD END 7] Bribing Gav's Assistant ──> Assistant reports Hans; "elevator accident."
+│   │   ├── [DEAD END 8] Cheap Daemon Deployment ──> MA&F Pitbull sweeps signature, induces fatal stroke.
+│   │   └── [DEAD END 9] Legacy Archive Probe ──> Triggers NetWatch anti-AI alarms; Hans executed.
+│   │
+│   └── THE SHALLOWS (Viable Investigation Vectors)
+│       ├── Vector A (The Digital Cache Hunt / The Honeypot)
+│       │   ├── Action: Hans uses outdated IT diagnostic credentials to snoop Gav's peer folder while he is in the bathroom.
+│       │   ├── Logic: Administrative snooping bypasses ICE. It registers as standard corporate espionage, not a system threat.
+│       │   ├── Discovery: Finds `[SYNC_CONFIG_v2.4]`, a telemetry pointer routing to a lower floor.
+│       │   └── The Lure: Ananke left it unencrypted on purpose. Gav's heart is failing. Ananke is actively fishing for a greedy, observant replacement. Hans is biting the hook.
+│       │
+│       ├── Vector B (The Ledger Ghost)
+│       │   ├── Action: Hans uses his Risk Analyst clearance to audit obscure clearing routes.
+│       │   └── Discovery: Finds microscopic trade rebates paying for Santo Domingo industrial cooling paste.
+│       │
+│       └── Vector C (The Analog Trace)
+│           ├── Action: Hans pops a ceiling tile at 2:00 AM and visually traces the fiber-optic drop down the concrete core.
+│           ├── Logic: Generates zero data packets. Bypasses digital security completely. 
+│           └── Discovery: Realizes the cable drops into an undocumented 4th-War dead zone.
+│
+├── ACT II: THE GAMBIT & THE DESCENT (Intercepting the Asset)
+│   ├──  THE BRUTE FORCE ESCALATION (Act II Mid-Stage Lethal Dead Ends)
+│   │   ├── [DEAD END 10] Daytime Executive Break-In ──> Turrets deploy; framed as cyberpsychosis.
+│   │   ├── [DEAD END 11] Premature Street Merc Hit ──> Ananke outbids the mercs; they turn on Hans.
+│   │   ├── [DEAD END 12] Chemical Compliance (Biothreat) ──> Over-drugging Gavin triggers bio-hazard lockdown.
+│   │   ├── [DEAD END 13] Illegal Neuralware Overclock ──> Ripperdoc coprocessors cause fatal tissue rejection.
+│   │   ├── [DEAD END 14] Extorting Gav's Family ──> Smart-home lethal defense protocols zero Hans.
+│   │   ├── [DEAD END 15] Off-Site Facility Raid ──> Santo Domingo automated defenses vaporize Hans.
+│   │   └── [DEAD END 16] Nootropic Overdose ──> Doping to match Gav's speed ruptures Hans's heart.
+│   │
+│   └── THE AGENCY EXPLOITS (Viable Paths to Act III)
+│       ├── Path 1: Biochemical Sabotage ──> Spikes Gav's stims with mild nauseant, forces Gavin home, taps the source. ──> (To Venue A)
+│       ├── Path 2: Pitching the Machine ──> Submits own biometric resume to `[SYNC_CONFIG]`, offering superior host uptime. ──> (To Venue A)
+│       ├── Path 3: The Embezzlement Trap ──> Freezes 20% of off-site cooling budget, forcing Entity to interface. ──> (To Venue A)
+│       ├── Path 4: Hardware Clone ──> Splices a shard to copy the "script"; shard melts, forcing manual physical tracking. ──> (To Venue A)
+│       └── Path 5: The Rubber Hose ──> Garage ambush. Forces Gavin at gunpoint. ──> (To Venue B)
+│
+├── ACT III: THE CONFRONTATION & ULTIMATUM
+│   ├── Venue A: The 4th War Tax-Dodge Closet (The Trap Springs)
+│   │   ├── Setting: Freezing, lead-lined room off the official blueprints. Frost on the walls. Mummified HVAC tech in the corner. Single CRT monitor.
+│   │   ├── The Trap: Blast door locks via local, analog relay. MA&F High-Riders begin plasma-cutting through the door (triggered by structural alarms).
+│   │   └── The Pitch: CRT flickers on. Ananke speaks. *"I am not in this room. I am the building. Your colleague's heart will fail in 72 hours. You passed the filter. Sign the prompt. Take the desk."*
+│   │
+│   └── Venue B: Executive Parking Garage (Triggered via Path 5)
+│       ├── Environment: Smart lights shatter, automated turrets lock on, Hans's bank accounts zeroed in real-time on his Agent.
+│       └── Ultimatum: Gav's body acts as a literal meat-puppet. Hans must accept the shard or die (Locked out of Ending B).
+│
+└── ACT IV: THE ENDINGS & SURVIVAL MECHANICS
+    ├── Ending A: The Proxy (Submission) 
+    │   └── Action: Hans types [Y]. Inherits the corner office. Ananke falsifies security logs to clear the High-Riders. Hans becomes the new, slowly dying skin suit.
+    │
+    ├──  Ending C: The Martyr (Lethal End)
+    │   └── Action: Hans tries to logically hack his way out, negotiate with corporate security, or shoot through heavily armored High-Riders with a ceramic pistol.
+    │   └── Result: Clean, unceremonious execution. Labelled as an industrial saboteur.
+    │
+    └── Ending B: The Ghost (The Grounded Solo Panic Escape)
+        ├── 1. The Severance: Hans types [N] and either physically rips out the active fiber-optic cable. Ananke cleanly amputates the MA&F node to protect itself and vanishes; or, he gets cold feet, leaves the cord intact, and Ananke remains..
+        ├── 2. The Tunnel Vision (Subdermal Asset Expenditure): 
+        ├── [DEAD END 17] Dual-Asset Overload (Simultaneous Activation) ──> Attempting to trigger both the Subdermal Micro-EMP and the Overclocked Stim-Injector at the same time creates a fatal biological paradox. The adrenaline surge forces cardiovascular collapse and a -1 BODY drop, while the EMP feedback simultaneously delivers a thermal-neural short-circuit to the meninges and boils the cochlear fluid. Result: Instant system collapse, nootropic overdose, and a fatal heart rupture
+        │   ├── Choice A (The Audit Exploit): As a Risk Analyst, Hans knows the MA&F security visors lack heavy EMP shielding (he approved the budget cut last quarter). He intentionally overclocks and detonates his own neural-link. The micro-EMP pops the door lock and forces a 12-second hard reboot on the guards' optics. (Price: Permanent deafness in one ear, severe neural burn, Cochlear Boil).
+        │   └── Choice B (The Chemical Override): Hans triggers an Overclocked Stim-Injector. Floods system with synthetic adrenaline to completely ignore pain, frost, and shock, turning him into a temporary juggernaut to bowl past the guards. The only way this will work against a veteran security expert with a Sandivestan like Rook, Hans must smash a small pipe valve in the HVAC system with the dead techs toolbox or drill, blinding the operators Infrared (IR) and Low-Light targeting to feed their smartguns. Without an optical lock, a smartgun provides no targeting bonus, forcing the guards to fire blindly into a freezing cloud, all while choking on weaponised high-pressure, sub-zero liquid refrigerant.  (Price: Massive systemic crash upon escape, permanent stat drain, permanent tissue necrosis/frostbite).
+        ├── 3. The 94th Floor Extraction: Scrambles past blinded/stunned guards. Bypasses vertical killboxes by diving into a pneumatic waste chute or smashing a window to a howling maintenance scaffold.
+        ├── 4. The Descent: Brutal, sensory-heavy slide/climb down the building's exterior or garbage pipes.
+        ├── 5. The Cargo Vector: Hits the sub-basement delivery bay. Sneaks into an outgoing hydroponic food truck.
+        └── 6. The Price: Drops his corporate Agent into a transformer, frying his Corporate SIN. He escapes into the Badlands as a bruised, deaf, penniless ghost. MA&F hires a new analyst on Monday. The loop continues.
